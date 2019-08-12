@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/drawable_ic_email.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/drawable/ic_email.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/drawable_edit_text_round_gray_background.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/drawable/edit_text_round_gray_background.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/drawable_ic_app_logo.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/drawable/ic_app_logo.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/layout_login_activity.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/layout/login_activity.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/drawable_ic_lock.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/drawable_ic_name.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/drawable/ic_name.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/layout_activity_signup.xml.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

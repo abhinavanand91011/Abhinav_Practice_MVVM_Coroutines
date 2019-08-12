@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_signup.xml",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/login_activity.xml",
+        "source": "/Users/mt0528/AndroidStudioProjects/Abhinav_Practice_MVVM_Coroutines/app/src/main/res/layout/login_activity.xml"
+    }
+]

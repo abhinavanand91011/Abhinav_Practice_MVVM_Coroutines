@@ -1,0 +1,2 @@
+rootProject.name='Abhinav_Practice_MVVM_Coroutines'
+include ':app'
